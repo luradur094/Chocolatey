@@ -2,7 +2,8 @@
 Es un gestor de paquetes y un instalador de paquetes a nivel
 de maquina para los paquetes del software diseñado para las 
 plataformas de Windows 
-![Local]
+
+![Local](https://github.com/luradur094/Chocolatey/blob/main/imagenes/Chocolatey.png)
 
 ## Requisitos para Instalarse
 Para instalar este programa se necesita una serie de requisitos minimos para instalar el programa.
