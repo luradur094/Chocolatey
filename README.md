@@ -11,4 +11,4 @@ Investigacion del programa chocolatey
 [ Mi Referencia ](https://ciberninjas.com/chocolatey/)
 
 ## Licencia
-[ Licencia ](https://github.com/luradur094/Chocolatey/blob/main/imagenes/licencia.png)
+![ Licencia ](https://github.com/luradur094/Chocolatey/blob/main/imagenes/licencia.png)
